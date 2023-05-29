@@ -14,7 +14,7 @@ The paper contains the following figures, and these scripts contain codes of all
 
 ![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/FiguresInProteinCell2023MicrobiomeReview/graphical%20abstract.jpg "image")
 
-**Graphical abstract | Microbiome research has developed unprecedentedly, prompting a question of what is next for future research. In response, we briefly retrospect past themes, present current work published in ***Protein*** & ***Cell***, and highlight future perspectives in the field.**
+**Graphical abstract | Microbiome research has developed unprecedentedly, prompting a question of what is next for future research. In response, we briefly retrospect past themes, present current work published in ***Protein*** & ***Cell***, **and highlight future perspectives in the field.**
 
 ![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/FiguresInProteinCell2023MicrobiomeReview/figure1.jpg)
 
@@ -22,7 +22,7 @@ The paper contains the following figures, and these scripts contain codes of all
 
 ![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/FiguresInProteinCell2023MicrobiomeReview/figure2.jpg)
 
-**Fig. 2 | The framework of the current microbiome special issue.**&#x20;
+**Fig. 2 | The framework of the current microbiome special issue.**
 
 ![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/FiguresInProteinCell2023MicrobiomeReview/figure3.jpg)
 
@@ -34,7 +34,7 @@ The paper contains the following figures, and these scripts contain codes of all
 
 ![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/FiguresInProteinCell2023MicrobiomeReview/figure%20S2.jpg "image")
 
-**Fig. S2 | Citations of literature published in *****Protein*** & ***Cell*** microbiome special issues.
+**Fig. S2 | Citations of literature published in ***Protein*** & ***Cell*** **microbiome special issues.**
 
 ## Graph
 
@@ -66,7 +66,7 @@ Data were extracted from Web of Science Core Collection database on March 29, 20
 
 ![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/FigureS1bBarplotWithLine/FigureS1bBarplotWithLine.jpg "image")
 
-**Fig. S1b |** **The percentage of publications from different countries in the past five years.**
+**Fig. S1b | The percentage of publications from different countries in the past five years.**
 
 Data were extracted from Web of Science Core Collection database on March 29, 2023.
 
