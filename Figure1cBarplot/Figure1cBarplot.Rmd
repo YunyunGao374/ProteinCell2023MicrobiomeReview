@@ -29,7 +29,7 @@ knitr::opts_chunk$set(
 
 If you use this script, please cited 如果你使用本代码，请引用：
 
-Yunyun Gao, Danyi Li, Yong-xin Liu. Microbiome research outlook: past, present, and future. 
+Yunyun Gao and others, Microbiome research outlook: past, present, and future, Protein & Cell, 2023, pwad031, https://doi.org/10.1093/procel/pwad031. 
 
 # Bar plot
 
