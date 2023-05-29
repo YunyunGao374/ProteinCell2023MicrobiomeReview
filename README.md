@@ -4,7 +4,7 @@
 
 This is the figure code for the review of Microbiome Research Outlook. Now is published in Protein & Cell.
 
-> Yunyun Gao, Danyi Li, Yong-Xin Liu, Microbiome research outlook: past, present, and future, **Protein & Cell**, 2023, pwad031, <https://doi.org/10.1093/procel/pwad031>. <span></span>\<script async src="<https://badge.dimensions.ai/badge.js>" charset="utf-8">\</script>
+> Yunyun Gao, Danyi Li, Yong-Xin Liu, Microbiome research outlook: past, present, and future, **Protein & Cell**, 2023, pwad031, <https://doi.org/10.1093/procel/pwad031>.
 
 ## Abstract
 
