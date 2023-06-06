@@ -79,7 +79,7 @@ Data were extracted from Web of Science Core Collection database on March 29, 20
 
 ### FigureS2aTreeMap
 
-![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/FigureS2aTreeMap/FigureS2aTreeMap.jpg "image")
+![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/FigureS2aTreeMap/FigureS2ATreeMap.jpg "image")
 
 **Fig. S2a | The global distribution of citations of the research published in the first two microbiome-themed special issues of** ***Protein & Cell.***
 
