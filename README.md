@@ -14,7 +14,7 @@ The paper contains the following figures, and these scripts contain codes of all
 
 ![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/FiguresInProteinCell2023MicrobiomeReview/graphical%20abstract.jpg "image")
 
-**Graphical abstract | Microbiome research has developed unprecedentedly, prompting a question of what is next for future research. In response, we briefly retrospect past themes, present current work published in *****Protein & Cell***, and highlight future perspectives in the field.
+**Graphical abstract | Microbiome research has developed unprecedentedly, prompting a question of what is next for future research. In response, we briefly retrospect past themes, present current work published in ** ***Protein & Cell,*** **and highlight future perspectives in the field.**
 
 ![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/FiguresInProteinCell2023MicrobiomeReview/figure1.jpg)
 
@@ -34,7 +34,7 @@ The paper contains the following figures, and these scripts contain codes of all
 
 ![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/FiguresInProteinCell2023MicrobiomeReview/figure%20S2.jpg "image")
 
-**Fig. S2 | Citations of literature published in *****Protein*** & ***Cell*** microbiome special issues.
+**Fig. S2 | Citations of literature published in** ***Protein & Cell*** **microbiome special issues.**
 
 ## Graph
 ### Figure1b TreeMap
