@@ -39,7 +39,7 @@ The paper contains the following figures, and these scripts contain codes of all
 ## Graph
 ### Figure1b TreeMap
 
-![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/Figure1bTreeMap/Figure1bTreeMap.jpg "image")
+![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/Figure1bTreeMap/Figure1BTreeMap.jpg "image")
 
 **Fig. 1b | Tree map indicating the geographical distribution of publications related to microbiome since 1985.**
 
