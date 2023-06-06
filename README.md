@@ -57,7 +57,7 @@ Year-over-year growth rate is calculated as follows: (the amount of the year’s
 
 ![image](https://github.com/YunyunGao374/ProteinCell2023MicrobiomeReview/blob/main/Figure1dBubbleplot/Figure1dBubbleplot.jpg "image")
 
-**Fig. 1d | Bubble plot showing the citation indexes of journals citing publications from the first two special issues of ** ***Protein & Cell.***
+**Fig. 1d | Bubble plot showing the citation indexes of journals citing publications from the first two special issues of** ***Protein & Cell.***
 
 Citation index is calculated as follows: the number of citations that a journal has made to the publications × the journal impact factor (IF) in 2021.
 
